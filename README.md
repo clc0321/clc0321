@@ -1,2 +1,2 @@
-- 👋 Hi, I’m a student from Taiwan,
+- 👋 Hi, I’m a student from Taiwan
 - I have a great interest in computers and hope to help others through my abilities. I'm learning a lot now, so please bear with me.
